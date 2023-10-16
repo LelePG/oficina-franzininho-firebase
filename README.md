@@ -1,4 +1,4 @@
-## ⭐️ Integração do Firebase com Projetos IoT usando a Franzininho Wifi
+## ⭐️ Oficina Integração do Firebase com Projetos IoT usando a Franzininho Wifi ⭐️
 
 Neste repositório você encontra os códigos de apoio da oficina, que são os códigos utilizador para acessar o Firebase Realtime Database a partir da Franzininho Wifi.
 
